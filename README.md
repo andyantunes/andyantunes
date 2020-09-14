@@ -7,6 +7,6 @@ Olá, eu sou o Anderson.
 - 👨🏾‍💻 Foco atual em desevolvimento web front-end
 - 📚 Atualmente estudando Vannila JS
 - 💡 Interesse nas libs e frameworks de JavaScript
-- 🤝 Iniciante na comunidade opensource
+- 🤝 Iniciante na comunidade open source
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=andyantunes)
