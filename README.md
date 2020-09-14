@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fandydevantunes)
 
@@ -9,4 +9,4 @@ Olá, eu sou o Anderson.
 - 💡 Interesse nas libs e frameworks de JavaScript
 - 🤝 Iniciante na comunidade opensource
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=andyantunes)
