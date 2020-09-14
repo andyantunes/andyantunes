@@ -5,7 +5,7 @@
 - 📚 Estudante de Sistemas para Internet na Fatec São Roque - SP
 - 👨🏾‍💻 Foco atual em desevolvimento web front-end
 - 📚 Atualmente estudando Vannila JS
-- 💡 Interesse nas libs e frameworks de JavaScript
+- 💡 Interesse nas libs e frameworks de JavaScript como, React, React Native e Node.Js
 - 🤝 Iniciante na comunidade open source
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=andyantunes)
