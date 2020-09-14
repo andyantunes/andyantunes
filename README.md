@@ -1,8 +1,6 @@
-<!-- ### Hi there 👋 -->
+### Olá 👋 eu sou o Anderson
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fandydevantunes)
-
-Olá, eu sou o Anderson.
 
 - 👨🏾‍💻 Foco atual em desevolvimento web front-end
 - 📚 Atualmente estudando Vannila JS
