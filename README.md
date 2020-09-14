@@ -1,7 +1,8 @@
 ### Olá 👋 eu sou o Anderson
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fandydevantunes)
+[![GitHub followers](https://img.shields.io/github/followers/andyantunes.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/andyantunes?tab=followers)
 
+- 📚 Estudante de Sistemas para Internet na Fatec São Roque - SP
 - 👨🏾‍💻 Foco atual em desevolvimento web front-end
 - 📚 Atualmente estudando Vannila JS
 - 💡 Interesse nas libs e frameworks de JavaScript
