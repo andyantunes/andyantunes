@@ -4,7 +4,7 @@
 
 - 📚 Estudante de Sistemas para Internet na Fatec São Roque - SP
 - 👨🏾‍💻 Foco atual em desevolvimento web front-end
-- 📚 Atualmente estudando Vannila JS
+- 📚 Atualmente estudando Angular
 - 💡 Interesse nas libs e frameworks de JavaScript como, React, React Native e Node.Js
 - 🤝 Iniciante na comunidade open source
 
